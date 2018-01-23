@@ -10,7 +10,7 @@
 
 5- Add wildfly11 to eclipse : https://www.youtube.com/watch?v=atr15yiyR3o
 
-6- Import "gestion_stock.jar" to eclipse while specifying wildfly11 as the target runtime
+6- Import "gestion_stock.jar" as an EJB JAR file to eclipse while specifying wildfly11 as the target runtime
 
 7- Add Hibernate5.2.12 to the project's Java Build Path
 
